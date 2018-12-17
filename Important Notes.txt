@@ -1,0 +1,6 @@
+Make sure to replace the server and database name with yours before running the code
+
+Current Server Name:	DESKTOP-57I0EL1 
+Current DataBase Bame:	Handsa3
+
+Make sure to install these libraries		tkinter		tkcalendar		pyodc			
